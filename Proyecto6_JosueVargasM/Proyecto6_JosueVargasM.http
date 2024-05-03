@@ -1,0 +1,6 @@
+@Proyecto6_JosueVargasM_HostAddress = http://localhost:5054
+
+GET {{Proyecto6_JosueVargasM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
